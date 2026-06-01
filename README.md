@@ -11,9 +11,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paoxyz&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paoxyz&layout=compact&theme=tokyonight" />
-
 <img src="https://streak-stats.demolab.com?user=Paoxyz&theme=tokyonight" />
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 
