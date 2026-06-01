@@ -17,7 +17,6 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Paoxyz&theme=tokyo-night)]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Paoxyz&theme=tokyonight)]
-
+[![Spotify](https://spotify-github-profile.vercel.app/api/view)]
 
 
