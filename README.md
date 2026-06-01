@@ -11,7 +11,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paoxyz&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paoxyz&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paoxyz&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paoxyz&layout=compact&theme=tokyonight" />
 
