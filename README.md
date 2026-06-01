@@ -15,5 +15,7 @@
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Paoxyz&theme=tokyo-night)]
+
 
 
