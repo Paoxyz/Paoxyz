@@ -11,7 +11,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-<img src="https://streak-stats.demolab.com?user=Paoxyz&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Paoxyz&theme=tokyonight" />
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
