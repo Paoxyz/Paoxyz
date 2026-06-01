@@ -24,8 +24,7 @@
 - 💻 Currently learning **C++**
 - 🌱 Interested in **Software Development** and **System Design**
 - ♻️ Building projects that can contribute to the **environment**
-- 🛡️ Working on **Vigilant**
-- 🥋 Taekwondo enthusiast
+- 🛡️ Working on **Vigilant, Payment Tracker and Application System, Calendar of Events, Documents Tracker System**
 - 🎯 Goal: Become a skilled developer and create impactful systems
 
 ---
@@ -42,14 +41,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Paoxyz&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paoxyz&theme=tokyonight&margin-w=15" />
 </p>
 
 ---
@@ -84,7 +75,5 @@
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Paoxyz&theme=tokyo-night)
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view)]
 
 
