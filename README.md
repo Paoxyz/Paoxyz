@@ -51,7 +51,3 @@
 ⭐ If you like my projects, consider giving them a star!
 
 
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Paoxyz&theme=tokyo-night)
-
-
