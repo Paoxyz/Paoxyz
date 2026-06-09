@@ -26,6 +26,8 @@
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ---
 
+![Paoxyz's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Paoxyz&bg_color=252530&color=a87ffb&line=a87ffb&point=252530&area=true&hide_border=true&title_color=ff0000)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ## 📈 Contribution Graph
 
 <p align="center">
