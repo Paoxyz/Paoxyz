@@ -25,8 +25,6 @@
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ---
-![Paoxyz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paoxyz&layout=donut&theme=react&hide_border=true&title_color=ff0000&bg_color=252530)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📈 Contribution Graph
 
 <p align="center">
